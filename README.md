@@ -1,0 +1,2 @@
+# ECG-Heart-Disease-Classification-with-Interpretability-on-MIT-BIH-and-PTB-XL-Datasets
+This work employs two models trained on the MIT-BIH and PTB-XL datasets to classify heart disease and provide interpretability results based on attention weights to determine the most significant segments in the ECG signals. The two models are a hierarchical attention network and Convolution Attention Transformer network, or CAT-Net. 
